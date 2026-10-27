@@ -19,21 +19,6 @@ The repository includes:
 
 ---
 
-## Repository
-
-GitHub Repository:
-
-**[Web-to-Wild-Wildlife-Detection](https://github.com/nomanhossainn/Web-to-Wild-Wildlife-Detection.git)**
-
-Clone the repository:
-
-```bash
-git clone https://github.com/nomanhossainn/Web-to-Wild-Wildlife-Detection.git
-cd Web-to-Wild-Wildlife-Detection
-```
-
----
-
 # Repository Structure
 
 ```
