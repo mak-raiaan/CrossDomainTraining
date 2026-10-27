@@ -70,19 +70,6 @@ Kaggle Download
 
 **[LoTE-Animal on Kaggle](https://www.kaggle.com/datasets/mdnomanhossain/lote-animal)**
 
----
-
-# Download using KaggleHub
-
-```python
-import kagglehub
-
-path = kagglehub.dataset_download("mdnomanhossain/lote-animal")
-
-print("Path to dataset files:", path)
-```
-
----
 
 # Dataset Structure
 
